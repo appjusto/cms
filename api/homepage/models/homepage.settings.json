@@ -21,6 +21,11 @@
       "type": "component",
       "repeatable": true,
       "component": "homepage.stakeholder"
+    },
+    "commitments": {
+      "type": "component",
+      "repeatable": true,
+      "component": "homepage.commitment"
     }
   }
 }

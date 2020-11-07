@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_homepage_commitments",
+  "info": {
+    "name": "Commitment",
+    "icon": "arrow-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    }
+  }
+}
