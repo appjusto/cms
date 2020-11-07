@@ -17,7 +17,7 @@
     "subtitle": {
       "type": "text"
     },
-    "courier": {
+    "stakeholders": {
       "type": "component",
       "repeatable": true,
       "component": "homepage.stakeholder"
