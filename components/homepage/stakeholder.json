@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_homepage_stakeholders",
+  "info": {
+    "name": "Stakeholder",
+    "icon": "biking"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
